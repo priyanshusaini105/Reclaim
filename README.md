@@ -1,7 +1,3 @@
-<<<<<<< Updated upstream
-# IndiTractor
- Tractor Game In India
-=======
 # Reclaim
 
 <!-- ![Reclaim Banner](banner_image.png) -->
@@ -55,4 +51,3 @@ You can also visit our [GitHub repository](https://github.com/priyanshusaini105/
 
 ---
 
->>>>>>> Stashed changes
